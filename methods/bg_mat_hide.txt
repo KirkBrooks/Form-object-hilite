@@ -1,0 +1,1 @@
+  //  bg_mat_hide ({text})  // $1: name of bg_mat object  // Written by: Kirk as Designer, Created: 02/16/19, 15:46:38  // ------------------  // Purpose: C_TEXT($1;$bg_mat)If (Count parameters>0)$bg_mat:=$1Else $bg_mat:="bg_mat"End if OBJECT SET VISIBLE(*;$bg_mat;False)

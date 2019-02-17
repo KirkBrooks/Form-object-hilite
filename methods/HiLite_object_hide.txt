@@ -1,0 +1,1 @@
+  //  HiLite_object_hide ()  // Written by: Kirk as Designer, Created: 02/16/19, 16:37:58  // ------------------  // Purpose: hide the hiLite object named in hiLite_obj.If (hiLite_obj.picVar#Null)OBJECT SET VISIBLE(*;hiLite_obj.picVar;False)End if 
